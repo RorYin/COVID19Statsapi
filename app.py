@@ -25,7 +25,12 @@ def getdata(query):
 @app.route('/')
 def home():
     query=request.args.get('q')
-    data=getdata(query)
+    out="Thank You for using api,you have sucessfully deployed it \nHead over to documentation to know how to use api https://github.com/RorYin/COVID19Statsapi"
+    if query == None:
+        return out
+    else:
+        data=getdata(query)
+        
     return jsonify(data)
 
 
