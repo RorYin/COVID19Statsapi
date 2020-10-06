@@ -1,0 +1,12 @@
+  
+{
+    "name": "COVID19Statsapi",
+    "description": "Get COVID 19 stats using this api",
+    "author": "Dhanush N",
+    "keywords": [
+        "flask",
+        "python",
+        "COVID19Statsapi"
+    ],
+    "repository": "https://github.com/RorYin/COVID19Statsapi"
+}
