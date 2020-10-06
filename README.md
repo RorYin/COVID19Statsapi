@@ -34,7 +34,7 @@
 
 ``` https://baseurl.herokuapp.com/?q=Country_name ```
 
-### Some of the names you can pass:
+### Country_name:
 
 ```
 india
@@ -63,7 +63,7 @@ japan
 china
 
 
-...basically every country name is lower case 
+...basically every "Country name" in lower case 
 ```
 <br>
 
