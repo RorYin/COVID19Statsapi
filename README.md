@@ -73,7 +73,7 @@ china
 <br>
 
 ## Get your baseurl by deploying to heroku 👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RorYin/COVID19Statsapi/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RorYin/COVID19Statsapi/tree/main)
 
 <br>
 
